@@ -71,7 +71,7 @@ While peer reviewing the defect reports created, we realised that everyone creat
 # How the pair testing was managed and team work/effort was divided 
 
 <p>
-We used the first assignment as an opportunity to learn about each person’s strengths and weaknesses, and in future assignments we hope to utilise this knowledge in order to streamline our group work.
+Initially, we decided to split the testing process amongst the 4 members to speed up the testing process, each testing different features of the ATM Software individually as a part of exploratory testing. However, when we moved on to manual testing we noticed that there were some key issues which we had overlooked over our initial testing phase which helped us realise the importance of “Pair Testing” as testing with the supervision of another member greatly reduced the chances of missing or overlooking fundamental flaws.So, we performed the MST and Regression testing in groups of 2 wherein the first group tested cases from 1-20 and second group tested cases from 21-40 in Appendix C. Finally, each group reviewed the other groups work eliminating any chances of missing a fundamental flaw with the ATM software. We used the first assignment as an opportunity to learn about each person’s strengths and weaknesses, and in future assignments we hope to utilise this knowledge in order to further streamline our group work.
 
 </p>
 

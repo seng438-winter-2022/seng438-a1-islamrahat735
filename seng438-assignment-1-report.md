@@ -87,4 +87,4 @@ Initially, we decided to split the testing process amongst the 4 members to spee
 
 # Comments/feedback on the lab and lab document itself
 
-This assignment has greatly helped us familiarise with the fundamentals of exploratory, manual and regression testing and has also helped provide hands-on experience on the usage of Backlog software for maintaining bug reports and various aspects associated with logging and documenting software tests.
+This assignment has greatly helped us familiarise with the fundamentals of exploratory, manual and regression testing and has also helped provide hands-on experience on the usage of Backlog software for maintaining bug reports and various aspects associated with logging and documenting software tests. Moreover, It has also provided us with an opportunity to learn about each person’s strengths and weaknesses, and in future assignments we hope to utilise this knowledge in order to further streamline our group work. Finally, the lab document was a great way to summarize and document our work throughout the lab which could serve as a great reference tool for future assignments.
